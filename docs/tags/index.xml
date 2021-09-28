@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Tienda Videojuegos</title>
-    <link>http://example.org/tags/</link>
+    <link>https://unaisuarez.github.io/HugoTiendaVideojuegos/tags/</link>
     <description>Recent content in Tags on Tienda Videojuegos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Sep 2021 10:49:57 +0200</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Sep 2021 10:49:57 +0200</lastBuildDate><atom:link href="https://unaisuarez.github.io/HugoTiendaVideojuegos/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>accion</title>
-      <link>http://example.org/tags/accion/</link>
+      <link>https://unaisuarez.github.io/HugoTiendaVideojuegos/tags/accion/</link>
       <pubDate>Mon, 27 Sep 2021 10:49:57 +0200</pubDate>
       
-      <guid>http://example.org/tags/accion/</guid>
+      <guid>https://unaisuarez.github.io/HugoTiendaVideojuegos/tags/accion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>espacial</title>
-      <link>http://example.org/tags/espacial/</link>
+      <link>https://unaisuarez.github.io/HugoTiendaVideojuegos/tags/espacial/</link>
       <pubDate>Mon, 27 Sep 2021 10:49:57 +0200</pubDate>
       
-      <guid>http://example.org/tags/espacial/</guid>
+      <guid>https://unaisuarez.github.io/HugoTiendaVideojuegos/tags/espacial/</guid>
       <description></description>
     </item>
     
     <item>
       <title>futurista</title>
-      <link>http://example.org/tags/futurista/</link>
+      <link>https://unaisuarez.github.io/HugoTiendaVideojuegos/tags/futurista/</link>
       <pubDate>Mon, 27 Sep 2021 10:49:57 +0200</pubDate>
       
-      <guid>http://example.org/tags/futurista/</guid>
+      <guid>https://unaisuarez.github.io/HugoTiendaVideojuegos/tags/futurista/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mundo abierto</title>
-      <link>http://example.org/tags/mundo-abierto/</link>
+      <link>https://unaisuarez.github.io/HugoTiendaVideojuegos/tags/mundo-abierto/</link>
       <pubDate>Mon, 27 Sep 2021 10:49:57 +0200</pubDate>
       
-      <guid>http://example.org/tags/mundo-abierto/</guid>
+      <guid>https://unaisuarez.github.io/HugoTiendaVideojuegos/tags/mundo-abierto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>peleas</title>
-      <link>http://example.org/tags/peleas/</link>
+      <link>https://unaisuarez.github.io/HugoTiendaVideojuegos/tags/peleas/</link>
       <pubDate>Mon, 27 Sep 2021 10:49:57 +0200</pubDate>
       
-      <guid>http://example.org/tags/peleas/</guid>
+      <guid>https://unaisuarez.github.io/HugoTiendaVideojuegos/tags/peleas/</guid>
       <description></description>
     </item>
     

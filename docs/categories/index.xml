@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Tienda Videojuegos</title>
-    <link>http://example.org/categories/</link>
+    <link>https://unaisuarez.github.io/HugoTiendaVideojuegos/categories/</link>
     <description>Recent content in Categories on Tienda Videojuegos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Sep 2021 10:49:57 +0200</lastBuildDate><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 27 Sep 2021 10:49:57 +0200</lastBuildDate><atom:link href="https://unaisuarez.github.io/HugoTiendaVideojuegos/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>accion</title>
-      <link>http://example.org/categories/accion/</link>
+      <link>https://unaisuarez.github.io/HugoTiendaVideojuegos/categories/accion/</link>
       <pubDate>Mon, 27 Sep 2021 10:49:57 +0200</pubDate>
       
-      <guid>http://example.org/categories/accion/</guid>
+      <guid>https://unaisuarez.github.io/HugoTiendaVideojuegos/categories/accion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>futurista</title>
-      <link>http://example.org/categories/futurista/</link>
+      <link>https://unaisuarez.github.io/HugoTiendaVideojuegos/categories/futurista/</link>
       <pubDate>Mon, 27 Sep 2021 10:49:57 +0200</pubDate>
       
-      <guid>http://example.org/categories/futurista/</guid>
+      <guid>https://unaisuarez.github.io/HugoTiendaVideojuegos/categories/futurista/</guid>
       <description></description>
     </item>
     
